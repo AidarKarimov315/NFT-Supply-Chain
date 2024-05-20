@@ -1,19 +1,6 @@
 # NFT Supply Chain
 Add transparency to the Supply Chain with NFTs and Blockchain.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Overview](#project-overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshot](#Screenshot)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project leverages Non-Fungible Tokens (NFTs) and blockchain technology to create a robust and transparent supply chain system. It allows tracking goods as they move from one warehouse to another, providing an efficient and secure way to monitor and manage the flow of products through the supply chain.
@@ -83,9 +70,3 @@ To run the project, please follow these steps:
 - Transparent and Secure Supply Chain: Manage your supply chain with confidence, thanks to blockchain technology.
 - Real-time Monitoring: Stay updated with real-time tracking of goods' movements.
 - Advanced Reporting and Analytics: Gain insights through comprehensive reporting and analytics tools.
-
-## Contributing
-We welcome contributions from the community. If you'd like to contribute to the project, please follow our Contribution Guidelines.
-
-## License
-This project is licensed under the MIT License. For more details, see the LICENSE file.
