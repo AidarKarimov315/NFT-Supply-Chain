@@ -1,8 +1,5 @@
-# Supply Chain Transparency with NFTs and Blockchain
-<p align="center">
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/signin%20page.png?token=GHSAT0AAAAAACJHGYP5LFIPMAYW4N2QCV4WZJ6PHHA" alt="my banner"></a>
-</p>
-Unlocking Supply Chain Transparency with NFTs and Blockchain – From Warehouse to Warehouse, Trust the Trace!
+# NFT Supply Chain
+Add transparency to the Supply Chain with NFTs and Blockchain.
 
 ## Table of Contents
 
@@ -45,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine using:
 
    ```shell
-   https://github.com/Madhesh-V/Supplychain-using-blockchain.git
+   https://github.com/AidarKarimov315/NFT-Supply-Chain.git
    ```
 2. Navigate to the project directory:
 
@@ -80,20 +77,6 @@ To run the project, please follow these steps:
 3. Access the Web Interface:
 
    - Open a web browser and visit the provided URL to interact with the supply chain system.
-
-## Screenshot
-
-<p align="center">
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/signin%20page.png?token=GHSAT0AAAAAACJHGYP5LFIPMAYW4N2QCV4WZJ6PHHA" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/Dashboard.png?token=GHSAT0AAAAAACJHGYP5MU72K34H2NWLYVHWZJ6PS7A" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/Suppers.png?token=GHSAT0AAAAAACJHGYP5M5SB2G5Z2JJ7SSHEZJ6PTTQ" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/Dealers.png?token=GHSAT0AAAAAACJHGYP4APIVLF3V7HPGFKDUZJ6PUCA" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/clients.png?token=GHSAT0AAAAAACJHGYP5ZHX53FD2V6CCML7CZJ6PUMQ" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/Trading%20history.png?token=GHSAT0AAAAAACJHGYP54ENKFB7EW35OH5Q6ZJ6PUWQ" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/Live%20Tracking.png?token=GHSAT0AAAAAACJHGYP4HWWULS7VXTHFT72UZJ6PVBA" alt="my banner"></a>
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Supplychain-using-blockchain/main/public/Screenshots/NFT%20Collection.png?token=GHSAT0AAAAAACJHGYP4UKOHPD5IGUH3ZPSKZJ6PVQQ" alt="my banner"></a>
-</p>
-
 ## Features
 
 - NFT-based Tracking: Track goods using unique NFTs, ensuring authenticity and origin.
